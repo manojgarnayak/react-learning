@@ -1,9 +1,13 @@
+import Chai from "./Chai"
 
 function App() {
 
   return (
-      <h1>Hii my name is Manoj Garnayak</h1>
-  )
+    <>
+      <Chai />
+      <h1>Hii but i am a coffee lover</h1>
+    </>
+    )
 }
 
 export default App
